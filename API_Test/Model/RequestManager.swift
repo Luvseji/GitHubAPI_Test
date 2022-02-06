@@ -13,7 +13,7 @@ class RequestManager {
     var resultRequestList: [GitHubUserAtList]?
     
     private var urlTemplate = "https://api.github.com/users"
-    private let token = "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"
+    private let token = "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"
     private var usersPerPage = 100
     private var isUserListRequest = false
     
